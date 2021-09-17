@@ -1,9 +1,8 @@
 # Rebase 大学
 
+想进行分享，请[填写相关信息](https://github.com/rebase-network/Rebase-University/issues/new?assignees=&labels=&template=----.md&title=%5B%E5%88%86%E4%BA%AB%5D+%E4%B8%BB%E9%A2%98%3A+%E9%A1%B9%E7%9B%AE)。遇到问题，联系微信 ljyxxzj
+
 ## 课程表
-
-想参加课程**现场讨论**，请填写课程表。填表遇到问题，联系微信 ljyxxzj
-
 |日期|时间|主题|项目|分享人|
 |:----|:----|:----|:----|:----|
 |2021.1.19|21:00|Code Review|Curve|Winky|
