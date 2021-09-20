@@ -74,8 +74,11 @@
 |2021.8.30|21:00|白皮书解读|Uniswap V2 白皮书讲解|xiejiaxing|[Bilibili](https://www.bilibili.com/video/BV11L41147VN/)|
 |2021.9.1|21:00|项目解读|Arbitrum|罗奔|[Bilibili](https://www.bilibili.com/video/BV1bQ4y1C7iJ)|
 |2021.9.3|21:00|Code Review|UniV3前端代码解析-part 2|三火|
+|2021.9.16|21:00|产品解读|DAO闲聊|郭欣晨|
 |2021.9.18|21:00|Code Review|UniV2智能合约代码解析|Keegan小钢|
 |2021.9.23|21:00|项目解读|Polygon白皮书 |Brian Seong|
+|2021.9.25|21:00|产品&技术解读|如何实现一个去中心化的订单薄系统 |Sam|
+
 
 ## 学习小组
 
