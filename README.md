@@ -1,16 +1,26 @@
 # Rebase 大学
 
-想进行分享，请[填写相关信息](https://github.com/rebase-network/Rebase-University/issues/new/choose)。遇到问题，联系微信 ljyxxzj
+Rebase 大学是 Rebase 社区中促进 Web3 相关技术人员交流的平台，鼓励任何人站到 Rebase 大学这个虚拟讲台上发表、分享、讨论和共创任何 Web3 技术相关话题。
+
+目前在 Rebase 大学课程表中的内容主要分为 **CodeReview**, **白皮书解读**, **技术解读**, **项目解读**, **安全分析**, **Workshop** 等五种板块。
+
+Rebase所有内容将发布在各社交、媒体平台上  
+[Bilibili](https://space.bilibili.com/382886213)  
+[YouTube](https://www.youtube.com/channel/UCHBt2olJlUSOLv4n69UmHmg)  
 
 ## 课程表
 
-请查看 https://github.com/orgs/rebase-network/projects/1
+请查看 [https://github.com/orgs/rebase-network/projects/1/views/1](https://github.com/orgs/rebase-network/projects/1/views/1)
 
 [往期课程表](./list.md)
 
+## 如何提交课程？
+
+如果你想进行分享，请参考[【提交课程指导】](./howto.md) 在 [【这里】](https://github.com/rebase-network/Rebase-University/issues/new/choose) 填写相关信息。遇到任何问题请联系微信 **ljyxxzj**, **xrdavies** 或 **liushooter2021**
+
 ## 愿望清单
 
-如果你希望有人来分享某个主题，请填写下面的表格。
+如果你希望有人来分享某个主题，请填写下面的表格，亦可以在社区中发起讨论，或提交相应的issue
 
 |提议人|主题|状态|
 |:----|:----|:----|
@@ -46,8 +56,8 @@
 
 不是。**只有想参加课程现场讨论的同学才需要参与分享和总结。**
 
-我们的课程内容是免费和开放的。如果只想听课程，可以直接去这里学习：[Bilibili](https://space.bilibili.com/382886213)
+我们的课程内容是免费和开放的。如果只想听课程，可以直接去这里学习：[Bilibili](https://space.bilibili.com/382886213) [Youtube](https://www.youtube.com/channel/UCHBt2olJlUSOLv4n69UmHmg)
 
-## 其它
+## 其它相关资料
 
 Code Review 领读指南：[https://github.com/rebase-network/code-review](https://github.com/rebase-network/code-review) （欢迎提出改进建议）
