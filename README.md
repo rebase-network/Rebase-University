@@ -1,25 +1,28 @@
 # Rebase 大学
 
-Rebase 大学是 Rebase 社区中促进 Web3 相关技术人员交流的平台，鼓励任何人站到 Rebase 大学这个虚拟讲台上发表、分享、讨论和共创任何 Web3 技术相关话题。
-
-目前在 Rebase 大学课程表中的内容主要分为 **CodeReview**, **白皮书解读**, **技术解读**, **项目解读**, **安全分析**, **Workshop** 等五种板块。
-
-Rebase所有内容将发布在各社交、媒体平台上  
+Rebase 大学是 Rebase 社区中促进 Web3 相关技术人员交流的平台，鼓励任何人站到 Rebase 大学这个虚拟讲台上发表、分享、讨论和共创任何 Web3 技术相关话题。目前在 Rebase 大学课程表中的内容主要分为 **CodeReview**, **白皮书解读**, **技术解读**, **项目解读**, **安全分析**, **Workshop** 等五种板块。Rebase所有内容将发布在各社交、媒体平台上。
 
 [我们的 Bilibili 空间](https://space.bilibili.com/382886213)  
+
 [我们的 YouTube 频道](https://www.youtube.com/channel/UCHBt2olJlUSOLv4n69UmHmg)  
 
 ## 课程表
 
-请查看 [https://github.com/orgs/rebase-network/projects/1/views/1](https://github.com/orgs/rebase-network/projects/1/views/1)
+[当前课程表](https://github.com/orgs/rebase-network/projects/1/views/1)  
 
-[往期课程表](./list.md)
+[往期课程表](./list.md)  
 
 ## 如何提交课程？
 
 如果你想进行分享，请参考[【提交课程指导】](./howto.md) 在 [【这里】](https://github.com/rebase-network/Rebase-University/issues/new/choose) 填写相关信息。  
 
-遇到任何问题请联系微信 **ljyxxzj**, **liushooter2021**, 或 **xrdavies**
+
+## 如何参与活动？
+
+可以关注 Rebase 微信公众号 **[rebase_network]** 获得最新活动会议链接。
+
+<img src="https://raw.githubusercontent.com/rebase-network/brand-assets/main/rebase-qr.png" alt="Rebase社区微信公众号" width="200">
+
 
 ## 愿望清单
 
@@ -68,3 +71,7 @@ Code Review 领读指南：[https://github.com/rebase-network/code-review](https
 ## 寻求帮助
 
 遇到任何问题请联系微信 **ljyxxzj**, **liushooter2021**, 或 **xrdavies**
+
+## 未来计划
+- [ ] 增加自动创建活动链接  
+- [ ] 增加自动活动信息发布  
