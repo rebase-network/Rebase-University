@@ -1,7 +1,8 @@
 ## 如何在 Rebase 大学提交你想进行的话题
 
-
 Rebase 大学的内容管理依赖于 Github 这个平台所提供的功能，目前课程表展示采用 Github 提供的 **Project** 功能，课表信息的收集则是基于 **issue**，同时依赖 **Github Action** 来做相关的自动化发布。感谢 Github 所提供的平台，让我们能够以完全开放的方式来进行 Rebase 大学的内容组织。
+
+遇到任何问题请联系微信 **ljyxxzj**, **liushooter2021**, 或 **xrdavies**
 
 ### 创建issue
 如图，前往 [https://github.com/rebase-network/Rebase-University/issues](https://github.com/rebase-network/Rebase-University/issues)  
