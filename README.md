@@ -14,7 +14,12 @@ Rebase 大学是 Rebase 社区中促进 Web3 相关技术人员交流的平台�
 
 ## 如何提交课程？
 
+
+[视频教程 Bilibili](https://www.bilibili.com/video/BV1mG411L7Qs/)  
+[视频教程 YouTube](https://www.youtube.com/watch?v=MoY3pxJ5qoY)  
+
 如果你想进行分享，请参考[【提交课程指导】](./howto.md) 在 [【这里】](https://github.com/rebase-network/Rebase-University/issues/new/choose) 填写相关信息。  
+
 
 
 ## 如何参与活动？
