@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Rebase Community Website
+    url: https://rebase.network
+  - name: Rebase Community Twitter
+    url: https://twitter.com/RebaseCommunity
+    about: Please contact us here.
+  - name: Rebase Community Telegram Group
+    url: https://t.me/rebasenetwork
+    about: Please contact us here.
