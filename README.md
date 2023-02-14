@@ -18,7 +18,11 @@ Rebase 大学作为一个开源大学是 Rebase 社区中促进 Web3 相关技�
 [视频教程 Bilibili](https://www.bilibili.com/video/BV1mG411L7Qs/)  
 [视频教程 YouTube](https://www.youtube.com/watch?v=MoY3pxJ5qoY)  
 
-如果你想进行分享，请参考[【提交课程指导】](./howto.md) 在 [【这里】](https://github.com/rebase-network/Rebase-University/issues/new/choose) 填写相关信息。  
+如果你想进行分享，请参考[【提交课程指导】](./howto.md) 在 [【这里】](https://github.com/rebase-network/Rebase-University/issues/new/choose) 填写相关信息。
+
+或  
+
+通过 [Calendly](https://calendly.com/rebasecommunity/university?month=2023-02) 预定分享时间
 
 
 
