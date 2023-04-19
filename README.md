@@ -1,5 +1,7 @@
 # Rebase 大学
 
+[![Twitter](https://img.shields.io/twitter/url?label=Rebase&url=https%3A%2F%2Ftwitter.com%2FRebaseCommunity)](https://twitter.com/RebaseCommunity)
+
 Rebase 大学作为一个开源大学是 Rebase 社区中促进 Web3 相关技术人员交流的平台，鼓励任何人站到 Rebase 大学这个虚拟讲台上发表、分享、讨论和共创任何 Web3 技术相关话题。目前在 Rebase 大学课程表中的内容主要分为 **CodeReview**, **白皮书解读**, **技术解读**, **项目解读**, **安全分析**, **Workshop** 等板块。Rebase 大学里所涉及的所有内容都将发布在各社交、媒体平台上。
 
 [我们的 Bilibili 空间](https://space.bilibili.com/382886213)  
